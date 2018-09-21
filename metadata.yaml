@@ -1,0 +1,40 @@
+_repo: Valkopukuinen-nainen-2-Perheromaani_53923
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Airanne, Aukusti
+    gutenberg_agent_id: '47622'
+    url: http://www.gutenberg.org/2009/agents/47622
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Translation of second part of The Woman in White.
+gutenberg_issued: '2017-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53923'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Deception -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Psychiatric hospital patients -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Gothic fiction'
+- !lcsh 'Art teachers -- Fiction'
+- GITenberg
+title: "Valkopukuinen nainen 2\r\nPerheromaani"
+url: http://www.gutenberg.org/ebooks/53923
